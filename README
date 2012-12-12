@@ -1,0 +1,12 @@
+What is LinuxInAndroid?
+
+It's an actually a simple shell interface program that relays the commands to the shell for you. It runs "startx" command on start and then runs xrandr when the rotation is needed, with the parameters required.
+
+Since Android doesn't allow usage of the framebuffer device directly, this application just provides a "hack" for it. It doesn't run flawless, but runs nonetheless :)
+
+If you support my projects, please consider donation - I'm just a college guy who need donations a lot :)
+
+Donation Link:
+
+https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=98JBJQF98PKCA&lc=TR&item_name=Ahmet%20Ipkin&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted
+
